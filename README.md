@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web engineer from India</h3>
 
 
-- 🌱 I’m currently learning *Java, Spring, Springboot, JavaScript, Hibernate JPA, HTML, CSS*
+- 🌱 I’m currently learning *Java, Javascript, Css, Api, HTML, CSS*
 
 - 👨‍💻 All of my projects are available at [https://github.com/saumya265](https://github.com/saumya265)
 
