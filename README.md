@@ -1,6 +1,6 @@
 # My-profile
-<h1 align="center">Hi 👋, I'm Saumitra Upadhyay</h1>
-<h3 align="center">A passionate Java Backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Saumya Upadhyay</h1>
+<h3 align="center">A passionate Web engineer from India</h3>
 
 
 - 🌱 I’m currently learning *Java, Spring, Springboot, JavaScript, Hibernate JPA, HTML, CSS*
